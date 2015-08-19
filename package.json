@@ -1,5 +1,5 @@
 {
-  "name": "resource-types",
+  "name": "@weo-edu/resource-types",
   "description": "Educational resource types.",
   "repository": "git://github.com/weo-edu/resource-types.git",
   "version": "0.1.0",
